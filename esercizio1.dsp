@@ -1,26 +1,8 @@
-
-Doc/Learn
-Downloads
-Tools
-Community
-Showcase
-Search
- 
-
-
-1
 // questo è un commento
-2
 //il commento è una riga din codice che viene ignorata dal compilatore
-3
 //il compilatore è un programm legge il nostro codice e lo esegue
-4
 //il commento è una riga di supporto e appunti per la programmazione
-5
-​
-6
 import("stdfaust.lib");
-7
 process = +;
-8
+
             
